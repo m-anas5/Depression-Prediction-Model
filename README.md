@@ -1,2 +1,2 @@
-# HeartAttackPrediction-USA
+# Depression Dataset
 Data Mining Project 
